@@ -1,0 +1,8 @@
+*
+!*/
+!*.c
+!*.config
+!*.h
+!*.md
+!*.sh
+!.gitignore

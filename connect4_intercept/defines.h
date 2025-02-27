@@ -1,0 +1,20 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+
+#ifndef ENV_RAND_NUMBER
+#define ENV_RAND_NUMBER "RAND_NUMBER"
+#endif
+
+#ifndef ENV_FIRST_COL_INDEX
+#define ENV_FIRST_COL_INDEX "FIRST_COL_INDEX"
+#endif
+
+#ifndef ENV_READ_SLOWDOWN
+#define ENV_READ_SLOWDOWN "READ_SLOWDOWN"
+#endif
+
+#ifndef DEFAULT_SLOWDOWN
+#define DEFAULT_SLOWDOWN 3
+#endif
+
+#endif
